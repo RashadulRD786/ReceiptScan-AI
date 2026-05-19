@@ -22,3 +22,5 @@ Thumbs.db
 # Logs
 *.log
 npm-debug.log*
+
+backend/=0.8.0
