@@ -338,8 +338,8 @@ No additional keys. No text before or after the JSON.
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/RashadulRD786/RecipetScan-AI.git
-cd RecipetScan-AI
+git clone https://github.com/RashadulRD786/ReceiptScan-AI.git
+cd ReceiptScan-AI
 ```
 
 ### 2. Backend Setup
